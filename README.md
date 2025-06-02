@@ -1,6 +1,6 @@
 # G₁-G₂ Gravity Duality
 
-**DOI:** [10.5281/zenodo.XXXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXXX) *(aktualizuj!)*  
+[![DOI](https://zenodo.org/badge/994150244.svg)](https://doi.org/10.5281/zenodo.15579179)
 
 ## Core Concept  
 Formal proof that:  
