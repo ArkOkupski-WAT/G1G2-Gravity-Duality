@@ -8,7 +8,7 @@ Formal proof that:
 - Require fundamentally different mathematical descriptions  
 
 ## Key Paper  
-📄 [G1G2-Duality.pdf](G1G2-Duality.pdf)  
+📄 [G1G2-Duality.pdf](https://github.com/ArkOkupski-WAT/G1G2-Gravity-Duality/releases/download/v3.0.1/G1G2-Duality-v3.pdf)  
 
 ## Related Work  
 Continuation of:  
