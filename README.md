@@ -5,7 +5,11 @@
 ## Core Concept  
 Formal proof that:  
 - General Relativity (**G₁**) and Quantum Gravity (**G₂**)  
-- Require fundamentally different mathematical descriptions  
+- Require fundamentally different mathematical descriptions
+- 
+## Key Contribution  
+Proof that General Relativity (G₁) and Quantum Gravity (G₂) require **fundamentally distinct mathematical frameworks**.  
+
 
 ## Key Paper  
 📄 [G1G2-Duality.pdf](https://github.com/ArkOkupski-WAT/G1G2-Gravity-Duality/releases/download/v3.0.1/G1G2-Duality-v3.pdf)  
